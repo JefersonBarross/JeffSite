@@ -1,0 +1,1 @@
+alert('Oii! Que bom te ver por aqui 😊 O site ainda está em construção, muitas funcionalidades não estão funcionando e o design final ainda não foi aplicado, mas estou trabalhando para deixar tudo pronto em breve!')
